@@ -1,0 +1,26 @@
+{
+  "name": "svfims--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "3.3.4",
+    "@syncfusion/ej2-base": "24.1.42",
+    "@syncfusion/ej2-vue-base": "24.1.41",
+    "@syncfusion/ej2-grids": "24.1.41",
+    "@syncfusion/ej2-vue-grids": "24.1.41",
+    "@syncfusion/ej2-buttons": "24.1.41",
+    "@syncfusion/ej2-vue-buttons": "24.1.41",
+    "@syncfusion/ej2-inputs": "24.1.41",
+    "@syncfusion/ej2-vue-inputs": "24.1.41",
+    "@syncfusion/ej2-vue-charts": "24.1.41",
+    "@syncfusion/ej2-vue-maps": "24.1.41",
+    "@syncfusion/ej2-vue-calendars": "24.1.41",
+    "@syncfusion/ej2-data": "24.1.41",
+    "@syncfusion/ej2-vue-schedule": "24.1.41",
+    "@syncfusion/ej2-vue-richtexteditor": "24.1.41",
+    "@syncfusion/ej2-vue-navigations": "24.1.41",
+    "@syncfusion/ej2-vue-documenteditor": "24.1.41",
+    "@syncfusion/ej2-vue-splitbuttons": "24.1.41",
+    "@syncfusion/ej2-vue-dropdowns": "24.1.41"
+  }
+}
